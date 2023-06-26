@@ -3,8 +3,8 @@
   <head>
   </head>
   <body>
-    <h1>Studio Ghibli CRUD App</h1>
-    <img src="https://www.ghibli.jp/gallery/chihiro045.jpg" alt="Studio Ghibli GIF">
+    <h1>CRUD App</h1>
+    <img src="https://i.redd.it/cd1fsdmet0871.jpg" alt="DobbyBookstore">
     <p>Our CRUD application uses Node.js, Express, and MongoDB to showcase the enchanting world of Studio Ghibli movies. With our app, you can perform CRUD operations to manage data about your favorite Ghibli films. From Spirited Away to Princess Mononoke, our app lets you easily create, read, update, and delete movie information.</p>
     <h2>Installation</h2>
     <ol>
